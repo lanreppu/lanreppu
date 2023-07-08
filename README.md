@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**lanreppu/lanreppu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanc55" alt="aryanc55" /> </p>
+
+- 🔭 I’m currently working on **CV/NLP problems**
+
+- 🌱 I’m currently learning **Docker**
+
+- 👯 I’m looking to collaborate on **Research projects/AI product development related to core-ML,CV and NLP**
+
+- 👨‍💻 All of my projects are available at [Where else than Github](https://github.com/aryanc55)
+- za
